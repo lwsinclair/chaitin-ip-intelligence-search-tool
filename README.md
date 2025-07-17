@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/co0ontty-chaitin-ip-intelligence-search-tool-badge.png)](https://mseep.ai/app/co0ontty-chaitin-ip-intelligence-search-tool)
+
 # chaitin-ip-intelligence-search-tool
 <p align="center">
   <img src="https://rivers-collie.oss-accelerate.aliyuncs.com/cyber-wiki-prod/image/a1f5a962a797d045d8190def53f79666.png" width="400" />
